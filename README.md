@@ -1,5 +1,9 @@
 # The World Today — 26 November 2026
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/Usogakie/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/Usogakie/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 A one-image newspaper front page summing up Thursday 26 November 2026's
 world news, generated entirely by code.
 
@@ -35,3 +39,7 @@ only — no network, no downloads, no external fonts or images. The program
 draws everything itself: a hand-made 5×7 pixel font, a framebuffer, rules,
 boxes, a line chart, and a hand-rolled PNG encoder (zlib + struct).
 Output is deterministic: running it twice produces identical bytes.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=nc97zkkt&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards
